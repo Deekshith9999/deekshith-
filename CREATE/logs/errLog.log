@@ -1,0 +1,8 @@
+20230726	10:47:57	bb3f5ce3-4cfb-4b5e-b4ce-3eaa5ee55135	MongoServerError: user is not allowed to do action [find] on [test.users]	GET	/users	undefined
+20230726	11:16:15	a022ffd4-eb00-4260-ab53-10847f8f006b	MongoServerError: user is not allowed to do action [find] on [test.users]	POST	/users	undefined
+20230726	11:29:01	f4cf7b7d-51d4-4c14-8fd9-547aa8a79d2d	MongoServerError: user is not allowed to do action [find] on [test.users]	POST	/users	undefined
+20230726	11:30:31	ef23ae8c-af28-4ded-aa9b-6b825d39e5a8	MongoServerError: user is not allowed to do action [find] on [test.users]	POST	/users	undefined
+20230726	11:35:04	35dd3c1d-eeee-4939-a5fb-773c7cd909c0	MongoServerError: user is not allowed to do action [find] on [test.users]	POST	/users	undefined
+20230726	11:38:25	fbe97503-5381-46ab-839d-926930cb0400	MongoServerError: user is not allowed to do action [find] on [test.users]	POST	/users	undefined
+20230726	11:38:37	e0a35025-73bb-44c9-a200-246995cb259c	MongoServerError: user is not allowed to do action [find] on [test.users]	GET	/users	undefined
+20230726	11:41:52	f20700b4-3b37-4ca4-97bb-09be6bf9f08e	MongoServerError: user is not allowed to do action [find] on [test.users]	GET	/users	undefined
